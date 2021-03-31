@@ -1,1 +1,6 @@
-//Write the program to print "Hello World !"sdrdcdtgfyfyhjfhjgh
+#include<stdio.h>
+int main()
+{
+printf("sai santhosh reddy");
+return 0;
+}
